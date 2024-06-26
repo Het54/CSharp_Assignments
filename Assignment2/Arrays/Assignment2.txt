@@ -1,0 +1,56 @@
+02 Arrays and Strings
+
+1. When to use String vs. StringBuilder in C# ?
+-> String: 
+   - Use String when you need immutable text. Once a String object is created, it cannot be modified. Any operation that appears to modify a string actually creates a new string object.
+   - If your string is not going to change often or you perform a few modifications, String is appropriate.
+   
+   StringBuilder: 
+   - Use StringBuilder when you need a mutable string. StringBuilder allows you to modify the content without creating new objects, making it more efficient for frequent updates.
+   - If your code involves a large number of concatenations, appends, or modifications, StringBuilder is more efficient.
+   
+2. What is the base class for all arrays in C#?
+->  In C#, the base class for all arrays is System.Array. This class provides methods and properties for creating, manipulating, searching, and sorting arrays.
+    - Properties: 
+        - Length: Gets the total number of elements in all the dimensions of the array.
+        - Rank: Gets the number of dimensions of the array.
+    - Methods:
+        - Sort(Array): Sorts the elements in the entire array.
+        - Reverse(Array): Reverses the sequence of the elements in the entire array.
+        - IndexOf(Array, Object): Searches for the specified object and returns the index of its first occurrence in a one-dimensional array.
+        - Copy(Array, Array, Int32): Copies a range of elements from one array to another array and performs type casting as needed.
+
+3. How do you sort an array in C#?
+-  In C#, you can sort an array using the Array.Sort() method. 
+   Syntax: Array.sort(array_name)
+
+4. What property of an array object can be used to get the total number of elements in an array?
+-> We can use Length property to get the total number of elements in an array.
+   Syntax: array_name.Length
+   
+5. Can you store multiple data types in System.Array?
+-> In C#, the System.Array class is designed to store elements of a single type. This type is specified when the array is created, ensuring type safety. 
+   However, we can store multiple data types in an array by using the object type, since all types in C# ultimately derive from System.Object.
+   Ex: int[] arr = [1,2,3,4,5,6]; --> this will only store integer values.
+   For storing different data types:
+   object[] mixedArray = new object[5];
+   mixedArray[0] = 42;           // Integer
+   mixedArray[1] = "Hello";      // String
+   mixedArray[2] = 3.14;         // Double
+   mixedArray[3] = true;         // Boolean
+   mixedArray[4] = 'A';  
+   
+6. What’s the difference between the System.Array.CopyTo() and System.Array.Clone()?
+-> The CopyTo() method copies the elements of the array into another existing array starting at a specified index.
+   The Clone() method creates a new array that is a shallow copy of the original array. It does not require a starting index. 
+   CopyTo():
+    - Requires an existing target array.
+    - Copies elements to a specified position in the target array.
+    - Suitable for copying elements into an already allocated array space.
+    - Syntax: sourceArray.CopyTo(targetArray, targetIndex);
+   
+   Clone(): 
+    - Creates a new array.
+    - Clones the entire array without needing a target array.
+    - Suitable for creating a duplicate of the original array.
+    - Syntax: Array newArray = (Array)sourceArray.Clone();

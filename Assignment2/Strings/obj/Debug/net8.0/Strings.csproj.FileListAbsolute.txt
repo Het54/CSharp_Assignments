@@ -1,0 +1,14 @@
+/Users/het/RiderProjects/Assignment2/Strings/bin/Debug/net8.0/Strings
+/Users/het/RiderProjects/Assignment2/Strings/bin/Debug/net8.0/Strings.deps.json
+/Users/het/RiderProjects/Assignment2/Strings/bin/Debug/net8.0/Strings.runtimeconfig.json
+/Users/het/RiderProjects/Assignment2/Strings/bin/Debug/net8.0/Strings.dll
+/Users/het/RiderProjects/Assignment2/Strings/bin/Debug/net8.0/Strings.pdb
+/Users/het/RiderProjects/Assignment2/Strings/obj/Debug/net8.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/het/RiderProjects/Assignment2/Strings/obj/Debug/net8.0/Strings.AssemblyInfoInputs.cache
+/Users/het/RiderProjects/Assignment2/Strings/obj/Debug/net8.0/Strings.AssemblyInfo.cs
+/Users/het/RiderProjects/Assignment2/Strings/obj/Debug/net8.0/Strings.csproj.CoreCompileInputs.cache
+/Users/het/RiderProjects/Assignment2/Strings/obj/Debug/net8.0/Strings.dll
+/Users/het/RiderProjects/Assignment2/Strings/obj/Debug/net8.0/refint/Strings.dll
+/Users/het/RiderProjects/Assignment2/Strings/obj/Debug/net8.0/Strings.pdb
+/Users/het/RiderProjects/Assignment2/Strings/obj/Debug/net8.0/Strings.genruntimeconfig.cache
+/Users/het/RiderProjects/Assignment2/Strings/obj/Debug/net8.0/ref/Strings.dll

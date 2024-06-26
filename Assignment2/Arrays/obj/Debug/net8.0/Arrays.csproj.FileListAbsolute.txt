@@ -1,0 +1,14 @@
+/Users/het/RiderProjects/Assignment2/Arrays/bin/Debug/net8.0/Arrays
+/Users/het/RiderProjects/Assignment2/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/Users/het/RiderProjects/Assignment2/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/Users/het/RiderProjects/Assignment2/Arrays/bin/Debug/net8.0/Arrays.dll
+/Users/het/RiderProjects/Assignment2/Arrays/bin/Debug/net8.0/Arrays.pdb
+/Users/het/RiderProjects/Assignment2/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/het/RiderProjects/Assignment2/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/Users/het/RiderProjects/Assignment2/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/Users/het/RiderProjects/Assignment2/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/het/RiderProjects/Assignment2/Arrays/obj/Debug/net8.0/Arrays.dll
+/Users/het/RiderProjects/Assignment2/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/Users/het/RiderProjects/Assignment2/Arrays/obj/Debug/net8.0/Arrays.pdb
+/Users/het/RiderProjects/Assignment2/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/Users/het/RiderProjects/Assignment2/Arrays/obj/Debug/net8.0/ref/Arrays.dll
