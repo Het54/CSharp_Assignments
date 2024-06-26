@@ -1,0 +1,14 @@
+/Users/het/RiderProjects/Assignment1/Chapter03/bin/Debug/net8.0/Chapter03
+/Users/het/RiderProjects/Assignment1/Chapter03/bin/Debug/net8.0/Chapter03.deps.json
+/Users/het/RiderProjects/Assignment1/Chapter03/bin/Debug/net8.0/Chapter03.runtimeconfig.json
+/Users/het/RiderProjects/Assignment1/Chapter03/bin/Debug/net8.0/Chapter03.dll
+/Users/het/RiderProjects/Assignment1/Chapter03/bin/Debug/net8.0/Chapter03.pdb
+/Users/het/RiderProjects/Assignment1/Chapter03/obj/Debug/net8.0/Chapter03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/het/RiderProjects/Assignment1/Chapter03/obj/Debug/net8.0/Chapter03.AssemblyInfoInputs.cache
+/Users/het/RiderProjects/Assignment1/Chapter03/obj/Debug/net8.0/Chapter03.AssemblyInfo.cs
+/Users/het/RiderProjects/Assignment1/Chapter03/obj/Debug/net8.0/Chapter03.csproj.CoreCompileInputs.cache
+/Users/het/RiderProjects/Assignment1/Chapter03/obj/Debug/net8.0/Chapter03.dll
+/Users/het/RiderProjects/Assignment1/Chapter03/obj/Debug/net8.0/refint/Chapter03.dll
+/Users/het/RiderProjects/Assignment1/Chapter03/obj/Debug/net8.0/Chapter03.pdb
+/Users/het/RiderProjects/Assignment1/Chapter03/obj/Debug/net8.0/Chapter03.genruntimeconfig.cache
+/Users/het/RiderProjects/Assignment1/Chapter03/obj/Debug/net8.0/ref/Chapter03.dll

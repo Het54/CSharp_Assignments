@@ -1,0 +1,48 @@
+-- Controlling Flow and Converting Types
+
+1) What happens when you divide an int variable by 0?
+-> It gives a runtime exception:  "System.DivideByZeroException: Attempted to divide by zero". It is because division by zero is not allowed in mathematical operations involving integers.
+
+2) What happens when you divide a double variable by 0?
+-> If a double is divided by 0 then it does not throw an exception. Insted it gives: 
+   Infinity:  if a positive number is divided by 0
+   -Infinity: if a negative number is divided by 0
+   NaN: If 0 is divided by 0
+
+3) What happens when you overflow an int variable, that is, set it to a value beyond its range?
+-> It throws an exception saying "Cannot implicitly convert type 'long' to 'int'. An explicit conversion exists (are you missing a cast?)".
+
+4) What is the difference between x = y++; and x = ++y;?
+-> In x = y++, the original value of y will be assigned to x and then the value of y will be increased by 1. 
+   Whereas, in x = ++y, the original value of y will be first increased by 1 and then it will be assigned to variable x.
+   
+5) What is the difference between break, continue, and return when used inside a loop statement?   
+-> break: Exits the current loop entirely, stopping further iterations.
+   continue: Skips the remaining code in the current iteration and moves to the next iteration of the loop.
+   return: Exits the entire method in which the loop resides, returning control and a value to the calling method.  
+   
+6) What are the three parts of a for statement and which of them are required?
+-> Three parts of for statements are: 
+   i) Initialization: This part is executed once before the loop starts. It is used to initialize the loop control variable. 
+   ii) Condition: This part is evaluated before each iteration of the loop. The loop continues as long as the condition is true. If the condition is false, the loop terminates.
+   iii) Iteration: This part is executed after each iteration of the loop. It is used to update the loop control variable.
+   
+   Only condition part is required compulsory for the loop. If there is no condition it can result in an infinite loop. Initialization can be provided even before the for loop is defined and Iteration can be defined inside the for loop.
+   
+7) What is the difference between the = and == operators?
+-> = is an assignment operator and == is an Equality operator. 
+   = : 
+     - It takes the value on its right side and stores it in the variable on its left side.
+     - It does not return a value
+   == :
+     - It is used to compare two values or expressions for equality.
+     - It returns a boolean value (true or false) depending on whether the values on its left and right sides are equal. 
+     
+8) Does the following statement compile? for ( ; true; ) ;
+-> Yes it compiles, and it goes into an infinite loop because the condition part of the for loop is always true. 
+
+9) What does the underscore _ represent in a switch expression?
+-> It represents a default case, catching any values not explicitly handled by other cases.
+
+10) What interface must an object implement to be enumerated over by using the foreach statement?
+-> object must implement the IEnumerable interface to be enumerated over by using the foreach statement. 

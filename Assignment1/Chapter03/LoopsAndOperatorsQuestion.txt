@@ -1,0 +1,26 @@
+-- Practice loops and operators
+
+What will happen if this code executes?
+
+int max = 500;
+for (byte i = 0; i < max; i++)
+{
+WriteLine(i);
+}
+
+Create a console application and enter the preceding code. Run the console application
+and view the output. What happens?
+-> It gives the output as "The name 'WriteLine' does not exist in the current context". 
+   But after changing WriteLine to Console.WriteLine(i): 
+   It goes into infinite loop because the i initialized inside at the start of the loop have a datatype of Byte and the maximum value it has is 255. 
+   So once it reaches 255, it will overflow to 0 because byte wraps around in a cyclic manner.
+
+What code could you add (don’t change any of the preceding code) to warn us about the problem?
+-> At the start of the for loop we can add: 
+    if (Byte.MaxValue < max)
+        {
+            Console.WriteLine("Warning: Byte overflow will occur!");
+        }
+    So it will warn by saying  "Warning: Byte overflow will occur!"  but it will still go in infinite loop. We can add break statement in if statement and put Console.WriteLine(i) into an else statement, this will prevent it from going into an infinite loop.
+    
+    

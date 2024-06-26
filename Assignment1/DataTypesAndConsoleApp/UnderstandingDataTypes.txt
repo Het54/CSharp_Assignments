@@ -1,0 +1,75 @@
+1. What type would you choose for the following “numbers”?
+i) A person’s telephone number
+-> long 
+
+ii) A person’s height
+-> float
+
+iii) A person’s age
+-> byte 
+
+iv) A person’s gender (Male, Female, Prefer Not To Answer)
+-> char (if we are setting it as Male - M, Female - F, Prefer Not To Answer - '-'), String if we are setting it as (Male, Female, Prefer Not To Answer). 
+
+v) A person’s salary
+-> decimal
+
+A book’s ISBN
+-> ulong
+
+A book’s price
+-> decimal 
+
+A book’s shipping weight
+-> float
+
+A country’s population
+-> long 
+
+The number of stars in the universe
+-> ulong
+
+The number of employees in each of the small or medium businesses in the
+United Kingdom (up to about 50,000 employees per business)
+-> ushort
+
+
+2) What are the difference between value type and reference type variables? What is
+boxing and unboxing?
+-> i) Value type will directly hold the value while reference type will hold the memory address or reference for the value
+   ii) Value types are stored in stack memory and reference types are hold in heap memory.
+   iii) Value type will not be collected by garbage collector but reference type will be collected by garbage collector.
+   iv) The value type can be created by struct or enum while reference type can be created by class, interface, delegate or array.
+   v) Value type can not accept null values while reference types can accept null values. 
+   vi) Examples of value type: int, float, double, bool 
+       Examples of reference type: String, Stringbuilder, Object
+   
+   Boxing: Converting a value type into a reference type is known as Boxing
+   Unboxing: Converting a reference type into a value type is known as Unboxing.
+   
+3) What is meant by the terms managed resource and unmanaged resource in .NET?
+-> Managed Resources: 
+    Resources managed by the .NET runtime's garbage collector: 
+    - Characteristic involves Automatic memory management, type safety and security. 
+    - Examples: Instances of .NET classes like 'List<int>', 'Stringbuilder'
+   
+   Unmanaged Resources: 
+    Resources not managed by .Net runtime's garbage collector. 
+    - Characteristic involve manual resource management. Clear manually by calling Dispose() method of IDisposable interface. 
+    - Examples: database connection, file transmission, etc.
+    
+4) What is the purpose of Garbage Collector in .NET?
+-> The purpose of the Garbage Collector in .NET is to manage the allocation and release of memory for applications, ensuring efficient memory usage and preventing memory leaks. 
+   Key functions and benefits of the Garbage collector:
+   - Automatic Memory Management
+   - Memory Optimization
+   - Object Lifecycle Management
+   
+
+
+
+
+                  
+                                  
+    
+  

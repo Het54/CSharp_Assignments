@@ -1,0 +1,14 @@
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/bin/Debug/net8.0/DataTypesAndConsoleApp
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/bin/Debug/net8.0/DataTypesAndConsoleApp.deps.json
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/bin/Debug/net8.0/DataTypesAndConsoleApp.runtimeconfig.json
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/bin/Debug/net8.0/DataTypesAndConsoleApp.dll
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/bin/Debug/net8.0/DataTypesAndConsoleApp.pdb
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/obj/Debug/net8.0/DataTypesAndConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/obj/Debug/net8.0/DataTypesAndConsoleApp.AssemblyInfoInputs.cache
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/obj/Debug/net8.0/DataTypesAndConsoleApp.AssemblyInfo.cs
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/obj/Debug/net8.0/DataTypesAndConsoleApp.csproj.CoreCompileInputs.cache
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/obj/Debug/net8.0/DataTypesAndConsoleApp.dll
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/obj/Debug/net8.0/refint/DataTypesAndConsoleApp.dll
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/obj/Debug/net8.0/DataTypesAndConsoleApp.pdb
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/obj/Debug/net8.0/DataTypesAndConsoleApp.genruntimeconfig.cache
+/Users/het/RiderProjects/Assignment1/DataTypesAndConsoleApp/obj/Debug/net8.0/ref/DataTypesAndConsoleApp.dll
