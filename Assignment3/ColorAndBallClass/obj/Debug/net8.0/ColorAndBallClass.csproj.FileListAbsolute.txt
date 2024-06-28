@@ -1,0 +1,14 @@
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/bin/Debug/net8.0/ColorAndBallClass
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/bin/Debug/net8.0/ColorAndBallClass.deps.json
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/bin/Debug/net8.0/ColorAndBallClass.runtimeconfig.json
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/bin/Debug/net8.0/ColorAndBallClass.dll
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/bin/Debug/net8.0/ColorAndBallClass.pdb
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/obj/Debug/net8.0/ColorAndBallClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/obj/Debug/net8.0/ColorAndBallClass.AssemblyInfoInputs.cache
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/obj/Debug/net8.0/ColorAndBallClass.AssemblyInfo.cs
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/obj/Debug/net8.0/ColorAndBallClass.csproj.CoreCompileInputs.cache
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/obj/Debug/net8.0/ColorAndBallClass.dll
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/obj/Debug/net8.0/refint/ColorAndBallClass.dll
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/obj/Debug/net8.0/ColorAndBallClass.pdb
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/obj/Debug/net8.0/ColorAndBallClass.genruntimeconfig.cache
+/Users/het/RiderProjects/Assignment3/ColorAndBallClass/obj/Debug/net8.0/ref/ColorAndBallClass.dll

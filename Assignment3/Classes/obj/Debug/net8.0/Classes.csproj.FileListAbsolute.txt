@@ -1,0 +1,14 @@
+/Users/het/RiderProjects/Assignment3/Classes/bin/Debug/net8.0/Classes
+/Users/het/RiderProjects/Assignment3/Classes/bin/Debug/net8.0/Classes.deps.json
+/Users/het/RiderProjects/Assignment3/Classes/bin/Debug/net8.0/Classes.runtimeconfig.json
+/Users/het/RiderProjects/Assignment3/Classes/bin/Debug/net8.0/Classes.dll
+/Users/het/RiderProjects/Assignment3/Classes/bin/Debug/net8.0/Classes.pdb
+/Users/het/RiderProjects/Assignment3/Classes/obj/Debug/net8.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/het/RiderProjects/Assignment3/Classes/obj/Debug/net8.0/Classes.AssemblyInfoInputs.cache
+/Users/het/RiderProjects/Assignment3/Classes/obj/Debug/net8.0/Classes.AssemblyInfo.cs
+/Users/het/RiderProjects/Assignment3/Classes/obj/Debug/net8.0/Classes.csproj.CoreCompileInputs.cache
+/Users/het/RiderProjects/Assignment3/Classes/obj/Debug/net8.0/Classes.dll
+/Users/het/RiderProjects/Assignment3/Classes/obj/Debug/net8.0/refint/Classes.dll
+/Users/het/RiderProjects/Assignment3/Classes/obj/Debug/net8.0/Classes.pdb
+/Users/het/RiderProjects/Assignment3/Classes/obj/Debug/net8.0/Classes.genruntimeconfig.cache
+/Users/het/RiderProjects/Assignment3/Classes/obj/Debug/net8.0/ref/Classes.dll

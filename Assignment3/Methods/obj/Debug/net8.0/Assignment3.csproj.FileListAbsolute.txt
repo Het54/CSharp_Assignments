@@ -1,0 +1,14 @@
+/Users/het/RiderProjects/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3
+/Users/het/RiderProjects/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3.deps.json
+/Users/het/RiderProjects/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3.runtimeconfig.json
+/Users/het/RiderProjects/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3.dll
+/Users/het/RiderProjects/Assignment3/Assignment3/bin/Debug/net8.0/Assignment3.pdb
+/Users/het/RiderProjects/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/het/RiderProjects/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.AssemblyInfoInputs.cache
+/Users/het/RiderProjects/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.AssemblyInfo.cs
+/Users/het/RiderProjects/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.csproj.CoreCompileInputs.cache
+/Users/het/RiderProjects/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.dll
+/Users/het/RiderProjects/Assignment3/Assignment3/obj/Debug/net8.0/refint/Assignment3.dll
+/Users/het/RiderProjects/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.pdb
+/Users/het/RiderProjects/Assignment3/Assignment3/obj/Debug/net8.0/Assignment3.genruntimeconfig.cache
+/Users/het/RiderProjects/Assignment3/Assignment3/obj/Debug/net8.0/ref/Assignment3.dll
