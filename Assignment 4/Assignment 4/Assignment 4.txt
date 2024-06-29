@@ -1,0 +1,48 @@
+
+-- Generics
+
+1) Describe the problem generics address.
+-> Generics address the problem of code reusability, type safety, and performance.
+    - Code Reusability: Generics allow you to write a single class or method that can work with any data type. This makes the code more reusable and reduces the amount of duplicate code.
+    - Type safety: Generics enforce type safety at compile time. By specifying the type parameter when using a generic class or method, the compiler ensures that only the specified type is used, eliminating the need for casting and reducing the risk of runtime errors.
+    - Performance: Generics eliminate the need for boxing and unboxing because the type is known at compile time. This results in more efficient code, especially when working with value types.
+    
+2) How would you create a list of strings, using the generic List class?
+-> List<string> str = new List<string>();
+
+3) How many generic type parameters does the Dictionary class have?
+-> The Dictionary class has two generic type parameters: one for the key and one for the value. The class is defined as Dictionary<TKey, TValue>, where TKey represents the type of the keys and TValue represents the type of the values.
+    Example: Dictionary<string, int> dict = new Dictionary<string, int>();
+
+4) When a generic class has multiple type parameters, they must all match.
+-> False. 
+    Each type parameter can represent a different type, allowing the generic class to be used with various combinations of types.
+    
+5) What method is used to add items to a List object?
+->  The method used to add items to a List object is the Add method. This method appends an item to the end of the list.
+    Example: List<string> fruits = new List<string>();
+             fruits.Add("Apple");
+    
+6) Name two methods that cause items to be removed from a List.
+-> Two methods that cause items to be removed from a List in C# are:
+   - Remove(T item): 
+     List<string> fruits = new List<string> { "Apple", "Banana", "Cherry", "Banana" };
+     fruits.Remove("Banana"); //Remove the first occurrence of "Banana"
+     
+   - RemoveAt(int index)
+     List<string> fruits = new List<string> { "Apple", "Banana", "Cherry", "Banana" };  
+     fruits.RemoveAt(1); // Remove the element at index 1 (which is "Banana")
+     
+7) How do you indicate that a class has a generic type parameter?
+-> To indicate that a class has a generic type parameter, we use angle brackets (< >) after the class name and specify the type parameter(s) within them. This is how you define a generic class.
+
+8) True/False. Generic classes can only have one generic type parameter.
+-> False
+   Example: public class Pair<T1, T2>{}  // Here T1 and T2 can be two different generic types.
+   
+9) Generic type constraints limit what can be used for the generic type.
+-> True
+
+10) Constraints let you use the methods of the thing you are constraining to.
+-> True
+     

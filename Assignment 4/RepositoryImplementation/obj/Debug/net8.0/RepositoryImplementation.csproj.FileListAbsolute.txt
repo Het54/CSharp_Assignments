@@ -1,0 +1,14 @@
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/bin/Debug/net8.0/RepositoryImplementation
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/bin/Debug/net8.0/RepositoryImplementation.deps.json
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/bin/Debug/net8.0/RepositoryImplementation.runtimeconfig.json
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/bin/Debug/net8.0/RepositoryImplementation.dll
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/bin/Debug/net8.0/RepositoryImplementation.pdb
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/obj/Debug/net8.0/RepositoryImplementation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/obj/Debug/net8.0/RepositoryImplementation.AssemblyInfoInputs.cache
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/obj/Debug/net8.0/RepositoryImplementation.AssemblyInfo.cs
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/obj/Debug/net8.0/RepositoryImplementation.csproj.CoreCompileInputs.cache
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/obj/Debug/net8.0/RepositoryImplementation.dll
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/obj/Debug/net8.0/refint/RepositoryImplementation.dll
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/obj/Debug/net8.0/RepositoryImplementation.pdb
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/obj/Debug/net8.0/RepositoryImplementation.genruntimeconfig.cache
+/Users/het/RiderProjects/Assignment 4/RepositoryImplementation/obj/Debug/net8.0/ref/RepositoryImplementation.dll

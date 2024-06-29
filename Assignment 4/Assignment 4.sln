@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 4", "Assignment 4\Assignment 4.csproj", "{53E332FE-04EA-487A-97F6-54B6C2DF44BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryImplementation", "RepositoryImplementation\RepositoryImplementation.csproj", "{C799DA8E-0762-4DDF-9DC8-5D1D10C634E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E332FE-04EA-487A-97F6-54B6C2DF44BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E332FE-04EA-487A-97F6-54B6C2DF44BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E332FE-04EA-487A-97F6-54B6C2DF44BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E332FE-04EA-487A-97F6-54B6C2DF44BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C799DA8E-0762-4DDF-9DC8-5D1D10C634E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C799DA8E-0762-4DDF-9DC8-5D1D10C634E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C799DA8E-0762-4DDF-9DC8-5D1D10C634E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C799DA8E-0762-4DDF-9DC8-5D1D10C634E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
